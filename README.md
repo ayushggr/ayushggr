@@ -1,4 +1,4 @@
-# Namaste 🙏, I'm Ayush Aggarwal 👋
+# Namaste 🙏 I'm Ayush Aggarwal 👋
 ![](https://komarev.com/ghpvc/?username=ayushggr&style=for-the-badge)
 [![Website](https://img.shields.io/website?label=Website&style=for-the-badge&url=https%3A%2F%2Fayushggr.github.io)](https://ayushggr.github.io/)
 
