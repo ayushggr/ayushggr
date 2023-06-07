@@ -8,7 +8,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on Stealth Mode Startup
+- 🔭 I’m currently working as Intern in Tally Solutions Pvt. Ltd.
 - 🌱 I’m currently learning everything 🤣
 - ⚡ Fun fact: The first computer “bug” was an actual real-life bug
 
