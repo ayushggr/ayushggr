@@ -1,4 +1,4 @@
-# Hi !! I'm Ayush 👋
+# Hi ! I'm Ayush 👋
 ![](https://komarev.com/ghpvc/?username=ayushggr&style=for-the-badge)
 [![Website](https://img.shields.io/website?label=Website&style=for-the-badge&url=https%3A%2F%2Fayushggr.github.io)](https://ayushggr.github.io/)
 
